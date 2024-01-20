@@ -1,4 +1,5 @@
 #include "sort.h"
+
 /**
  * partition - A function performs the partitioning step
  * of the Quick Sort algorithm.
