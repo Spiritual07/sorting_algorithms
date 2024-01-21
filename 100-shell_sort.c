@@ -9,7 +9,7 @@
 
 void shell_sort(int *array, size_t size)
 {
-	size_t x, y, gap = 1;
+	size_t x, y, gap = 0;
 	int temp;
 
 	while (gap < size / 3)
